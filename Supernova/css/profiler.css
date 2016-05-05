@@ -1,0 +1,14 @@
+.profiler{
+    z-index: 999999;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    bottom: 0px;
+    color: yellow;
+    font-size: 9px;
+    font-family: Verdana, Arial;
+    background: rgba(0,0,0,0.8);
+    padding: 2px;
+    margin: 0;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 1),1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+}
