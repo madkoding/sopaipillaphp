@@ -1,4 +1,4 @@
-Supernova Framework
+SopaipillaPHP Framework
 ===================
 [![License](https://poser.pugx.org/leaphly/cart-bundle/license.svg)](https://packagist.org/packages/leaphly/cart-bundle)
 ![Build test](https://travis-ci.org/SupernovaFramework/SupernovaPHP.svg?branch=master)
