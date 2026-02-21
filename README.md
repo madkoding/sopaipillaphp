@@ -466,3 +466,6 @@ UsersModel::delete(1);
 git clone https://github.com/madkoding/sopaipilla-php my-project
 cd my-project && php -S localhost:8000 index.php
 ```
+
+<!-- AUTO-UPDATE-DATE -->
+**Última actualización:** 2026-02-21 01:33:17 -03
