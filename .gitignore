@@ -1,0 +1,44 @@
+# Dependencies
+/vendor/
+composer.lock
+
+# Build artifacts
+/build/
+/.phpunit.cache/
+/.phpstan.cache/
+/.php-cs-fixer.cache
+
+# IDE
+/.idea/
+/.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime
+*.log
+/cache/*
+!/cache/.gitkeep
+
+# Test coverage
+/coverage/
+/clover.xml
+
+# Temp
+/tmp/
+*.tmp
+*.temp
+
+# Environment — never commit secrets
+.env
+.env.*
+!.env.example
+
+# SQLite databases (use :memory: for dev; keep real files out of VCS)
+*.sqlite
+*.sqlite3
+*.db
