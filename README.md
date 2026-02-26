@@ -468,4 +468,4 @@ cd my-project && php -S localhost:8000 index.php
 ```
 
 <!-- AUTO-UPDATE-DATE -->
-**Última actualización:** 2026-02-26 11:13:11 -03
+**Última actualización:** 2026-02-26 12:52:12 -03
